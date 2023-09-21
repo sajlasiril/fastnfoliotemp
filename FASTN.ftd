@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: sajla siril.github.io/fastnfoliotemp
-favicon: /-/sajla siril.github.io/fastnfoliotemp/favicon.ico
+-- fastn.package: sajlasiril.github.io/fastnfoliotemp
+favicon: /-/sajlasiril.github.io/fastnfoliotemp/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
@@ -12,7 +12,7 @@ favicon: /-/sajla siril.github.io/fastnfoliotemp/favicon.ico
 
 
 
--- fastn.auto-import: sajla siril.github.io/fastnfoliotemp/FASTN/ds
--- fastn.auto-import: sajla siril.github.io/fastnfoliotemp/assets
+-- fastn.auto-import: sajlasiril.github.io/fastnfoliotemp/FASTN/ds
+-- fastn.auto-import: sajlasiril.github.io/fastnfoliotemp/assets
 -- fastn.auto-import: doc-site
 
