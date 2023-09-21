@@ -1,0 +1,27 @@
+-- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
+-- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
+-- import: sajlasiril.github.io/fastnfoliotemp/lib
+
+-- lib.page:
+
+-- lib.header:
+logo: $assets.files.assets.logo.jpg
+logo-text: Portfolio
+cta-text-1: Home
+cta-text-2: About
+cta-text-3: Resume
+cta-text-1-url: index.html
+cta-text-2-url: index.html
+cta-text-3-url: index.html
+
+-- hero-1.hero-1: I'm sajla siril
+cta-button-1: Resume
+link-1: https://drive.google.com/file/d/1Iteo0L4b-1HeM3qUnV4t7krQohVVPXBT/view?usp=drivesdk
+cta-button-2: LinkedIn
+link-2: https://www.linkedin.com/in/sajla-siril-5340a3205
+cover: $assets.files.assets.IMG_20221111_180719_924_044045.jpg
+
+I'm learning fastn
+
+
+-- end: lib.page
